@@ -1,5 +1,6 @@
 body {
     font-family: 'Poppins', sans-serif;
+    margin: 0%;
 
 }
 
@@ -28,9 +29,14 @@ section {
 .link-button {
     text-decoration: none;
     color: white;
-    font-weight: lighter background-color: orange;
+    font-weight: 700;
     background-image: linear-gradient(orange, tomato);
     padding: 10px 40px;
     border-radius: 5px;
 
+}
+
+.corner-nukta {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat
 }
