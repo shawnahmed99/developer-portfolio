@@ -14,6 +14,7 @@ h1 {
 
 section {
     display: flex;
+    margin-bottom: 1px;
 }
 
 .half-width {
@@ -23,7 +24,7 @@ section {
 }
 
 .half-width img {
-    width: 75%;
+    width: 73%;
 }
 
 .link-button {
@@ -39,4 +40,11 @@ section {
 .corner-nukta {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat
+}
+
+.right-nukta {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    bac
 }
