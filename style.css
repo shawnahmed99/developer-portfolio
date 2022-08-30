@@ -83,3 +83,7 @@ h2 {
 #Baby-Web {
     border-left: 8px solid blue;
 }
+
+footer p {
+    text-align: center;
+}
